@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta/ | tail +3
+grep -A 0 "Julius" iacta
