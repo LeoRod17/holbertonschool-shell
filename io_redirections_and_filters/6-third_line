@@ -1,2 +1,2 @@
 #!/bin/bash
-grep A-n 3 "this step" iacta
+grep "The die is cast" iacta
