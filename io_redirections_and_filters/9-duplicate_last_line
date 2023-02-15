@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "A kocka el van vetve" iacta
+grep "The die is cast" iacta
